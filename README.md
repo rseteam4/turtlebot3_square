@@ -43,7 +43,7 @@ This ROS node moves a TurtleBot3 robot to the world origin (0,0,0) and then comm
 
    ```bash
    cd ~/catkin_ws/src
-   git clone <your-repo-url> turtlebot3_square_at_origin
+   git clone https://github.com/rseteam4/turtlebot3_square.git
    ```
 2. Make sure the script is executable:
 
